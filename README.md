@@ -1,16 +1,17 @@
-### Hi there 👋 :)
+**Hi, I'm Vitor! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">**
 
-<!--
-**vitorhenr1que/vitorhenr1que** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* * *
 
-Here are some ideas to get you started:
+**About me:**
+- 💻 I'm web developer
+- ⚛️ JavaScript | NodeJS | React
+- 📝 I'm majoring in Internet Systems
+- 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/vitor-henrique-130b46159/), [instagram](https://www.instagram.com/vitor_henr1que/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Languages and tools:**
+
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
