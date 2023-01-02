@@ -4,7 +4,7 @@
 
 **About me:**
 - 💻 I'm web developer
-- ⚛️ JavaScript | NodeJS | React
+- ⚛️ JavaScript | NodeJS | React | NextJS
 - 📝 I'm majoring in Internet Systems
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/vitor-henrique-130b46159/), [instagram](https://www.instagram.com/vitor_henr1que/)
 
